@@ -59,7 +59,7 @@ const AudioUpload = () => {
                             variant="outlined"
                             style={{ marginBottom: "1rem", backgroundColor: "#333", color: "#FFFFFF" }}
                             InputLabelProps={{ style: { color: "#FFFFFF" } }}
-                            inputProps={{ style: { color: "#FFFFFF" } }}
+                            // inputProps={{ style: { color: "#FFFFFF" } }}
                         />
                         <Button
                             type="submit"
