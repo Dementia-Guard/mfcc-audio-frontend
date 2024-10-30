@@ -48,7 +48,7 @@ const AudioUpload = () => {
             <Card style={{ maxWidth: 600, width: "100%", backgroundColor: "#1e1e1e", color: "#FFFFFF" }}>
                 <CardContent>
                     <Typography variant="h4" align="center" gutterBottom>
-                        Audio Classification
+                        Apilage Projects
                     </Typography>
                     <form onSubmit={handleSubmit} style={{ textAlign: "center" }}>
                         <TextField
